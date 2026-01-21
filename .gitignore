@@ -1,0 +1,10 @@
+# Thêm nội dung này vào file .gitignore
+Library/
+Temp/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.unityproj
+.vs/
+.vscode/
